@@ -2,10 +2,10 @@
 
 ## :rocket: Olá! Bem vindo ao projeto experiencein.
 ### :pushpin: Índice
-- [Objetivo](#objetivo)
-- [Tecnologias](#tecnologias)
-- [Conteudo](#conteudo)
-- [Status do Projeto](#status-do-projeto)
+- [Objetivo](#dart-objetivo)
+- [Tecnologias](#hammer_and_wrench-tecnologias)
+- [Conteúdo](#open_file_folder-conte%C3%BAdo)
+- [Status do Projeto](#clipboard-status-do-projeto)
 ### :dart: Objetivo
 
  O objetivo do presente projeto é de Desenvolvimento de um sistema web utilizando frameworks modernos.
