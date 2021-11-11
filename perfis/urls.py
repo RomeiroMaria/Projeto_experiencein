@@ -8,4 +8,5 @@ urlpatterns = [
     path('', views.index, name='index'),
     # corresponde ao caminho da nossa âncora na página index.html
     path('perfis/<int:perfil_id>', views.exibir, name='exibir'),
+    path('perfis/<int:perfil_id>/convidar', views.convidar, name='convidar')
 ]
