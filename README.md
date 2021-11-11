@@ -66,7 +66,7 @@ Em construção...  :construction: :construction_worker_woman:
 
 - [x] A página Perfil
 
-- [ ] Convidando perfis
+- [x] Convidando perfis
 
 - [ ] Arquivos estáticos e template base
 
