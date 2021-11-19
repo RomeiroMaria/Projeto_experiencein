@@ -29,10 +29,11 @@ Esse repositorio contém os seguintes arquivos:
 
 ### :hammer_and_wrench: Tecnologias
 
-* [Django 2.2](https://www.djangoproject.com/) - O framework web usado
+* [Django 3.2](https://www.djangoproject.com/) - O framework web usado
 * [Python 3.7](https://www.python.org/downloads/) - Linguagem de programação
 * [VSCode](https://code.visualstudio.com/) - IDE
-* [Git-bash](https://git-scm.com/downloads) - Aplicativo para Windows
+* [Git-bash](https://git-scm.com/downloads) - Aplicativo para Windows para  de linha de comando Git
+* [Bootstrap 3.0](https://1drv.ms/u/s!Av8pSmXDlugUjdJ0-ciRht5gFvuOhA) - Framework CSS
 
 
 ### :computer: Iniciando
@@ -68,7 +69,7 @@ Em construção...  :construction: :construction_worker_woman:
 
 - [x] Convidando perfis
 
-- [ ] Arquivos estáticos e template base
+- [x] Arquivos estáticos e template base
 
 - [ ] Exibindo convites recebidos
 
