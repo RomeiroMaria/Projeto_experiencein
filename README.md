@@ -71,7 +71,7 @@ Em construção...  :construction: :construction_worker_woman:
 
 - [x] Arquivos estáticos e template base
 
-- [ ] Exibindo convites recebidos
+- [x] Exibindo convites recebidos
 
 - [ ] Aceitando convites e exibindo nossos contatos
 
