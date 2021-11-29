@@ -73,7 +73,7 @@ Em construção...  :construction: :construction_worker_woman:
 
 - [x] Exibindo convites recebidos
 
-- [ ] Aceitando convites e exibindo nossos contatos
+- [x] Aceitando convites e exibindo nossos contatos
 
 - [ ] Cadastro de usuários
 
