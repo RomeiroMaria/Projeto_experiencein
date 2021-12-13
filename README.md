@@ -75,9 +75,17 @@ Em construção...  :construction: :construction_worker_woman:
 
 - [x] Aceitando convites e exibindo nossos contatos
 
-- [ ] Cadastro de usuários
+- [x] Cadastro de usuários
 
-- [ ] Validando formulários
+- [x] Validando formulários
+
+- [ ] Autenticando e autorizando nossos usuários
+
+- [ ] Deploy da aplicação
+
+- [ ] API
+
+- [ ] Front-end (React)
 
 
 ---

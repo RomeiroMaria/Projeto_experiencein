@@ -1,15 +1,19 @@
 from django.db import models
+from django.contrib.auth.models import User
+from django.db.models.deletion import CASCADE
 
 # Create your models here.
 
 class Perfil(models.Model):
     nome = models.CharField(max_length=255, null=False)
-    email = models.CharField(max_length=255, null=False)
-    telefone = models.CharField(max_length=255, null=False)
+    
+    telefone = models.CharField(max_length=15, null=False)
     nome_empresa = models.CharField(max_length=255, null=False)
 
     contatos = models.ManyToManyField('self')
 
+    usuario = models.OneToOneField(User, on_delete= CASCADE, related_name="perfil")
+    @property # apagar o atributo email e delegar seu acesso para a classe User
     def convidar(self, perfil_convidado):
         Convite(solicitante=self, convidado=perfil_convidado).save()
 
