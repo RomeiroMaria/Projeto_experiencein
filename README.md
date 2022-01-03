@@ -23,7 +23,14 @@ Esse repositorio contém os seguintes arquivos:
 
 * [perfis](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/perfis)
     * [migrations](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/perfis/migrations)
+    * [static](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/perfis/static)
     * [templates](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/perfis/templates)
+
+* [usuarios](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/usuarios)
+    * [templates](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/usuarios/templates)
+    * [forms.py](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/usuarios/forms.py)
+    * [urls.py](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/usuarios/urls.py)
+    * [views.py](https://github.com/RomeiroMaria/Projeto_experiencein/tree/master/usuarios/views.py)
 
 * [gitignore](https://github.com/RomeiroMaria/Projeto_experiencein/blob/master/.gitignore) - lista de arquivos e pastas ignoradas no versionamento
 
@@ -79,7 +86,7 @@ Em construção...  :construction: :construction_worker_woman:
 
 - [x] Validando formulários
 
-- [ ] Autenticando e autorizando nossos usuários
+- [x] Autenticando e autorizando nossos usuários
 
 - [ ] Deploy da aplicação
 
