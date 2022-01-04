@@ -3,12 +3,14 @@
 
 ## :rocket: Olá! Bem vindo ao projeto experiencein.
 ---
+
 ### :pushpin: Índice
 - [Objetivo](#dart-objetivo)
 - [Conteúdo](#open_file_folder-conte%C3%BAdo)
 - [Tecnologias](#hammer_and_wrench-tecnologias)
 - [Iniciando](#computer-iniciando)
 - [Status do Projeto](#clipboard-status-do-projeto)
+- [Link](#point_right-link)
 
 ### :dart: Objetivo
 
@@ -88,11 +90,16 @@ Em construção...  :construction: :construction_worker_woman:
 
 - [x] Autenticando e autorizando nossos usuários
 
-- [ ] Deploy da aplicação
+- [x] Deploy da aplicação
 
 - [ ] API
 
 - [ ] Front-end (React)
+
+### :point_right: Link
+Link para a aplicação disponivel online.
+
+http://mariaromeiro.pythonanywhere.com
 
 
 ---
