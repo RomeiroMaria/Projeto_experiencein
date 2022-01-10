@@ -70,7 +70,7 @@ http://localhost:8000
 Pronto, agora você já tem os arquivos e a aplicação rodando localmente. 
 ### :clipboard: Status do Projeto
 
-Em construção...  :construction: :construction_worker_woman:
+Concluído :construction: :construction_worker_woman:
 
 - [x] A página principal da aplicação
 
@@ -91,10 +91,6 @@ Em construção...  :construction: :construction_worker_woman:
 - [x] Autenticando e autorizando nossos usuários
 
 - [x] Deploy da aplicação
-
-- [ ] API
-
-- [ ] Front-end (React)
 
 ### :point_right: Link
 Link para a aplicação disponivel online.
